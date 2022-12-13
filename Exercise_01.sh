@@ -9,12 +9,14 @@ file_path="/home/joao/Desktop/hakuna_matata.txt"
 
 if [ -e "$file_path" ] && [ -s "$file_path"]
 then 
-	echo "$file_path password are enabled, the file is not empty"
+	echo "$file_path password are enabled,the file is not empty"
+else
+  echo "The file $file_path is empty"
 fi
 
 if [ -x $file_path ]
 then
-	echo "You have permission to execute the $file_path"
+	echo "You have permission to execute $file_path"
 else
 	echo "You dont have permission to execute $file_path"
 fi	
