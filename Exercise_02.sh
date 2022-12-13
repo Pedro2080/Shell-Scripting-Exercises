@@ -23,3 +23,4 @@ done
 
 #Szie of the array
 echo "Size of the array ${#Animals[@]}"
+echo "Size of the array ${#Animals[*]}"
