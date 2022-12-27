@@ -41,3 +41,14 @@ If the user simply press enter,the current date will be used. Otherwise,whatever
 If you are using the proper options, the third ls command not be executed.
 
 **17-** Modify the previous exercise so that script continuous, even if an error occurs. This time, all three ls command will execute.
+**18-** Your task is to use for loops to display only odd natural numbers from 1 to 99.
+**19-** Use a for loop to display the natural numbers from 1 to 50.
+**20-** Given two integers, X and Y, find their sum, difference, product, and quotient.
+Input Format 
+Two lines containing one integer each (X and Y, respectively).
+Input Constraints 
+−100≤X,Y≤100 
+Y≠0
+Output Format 
+Four lines containing the sum (X+Y), difference (X−Y), product (X×Y), and quotient (X∖Y), respectively. 
+(While computing the quotient, print only the integer part.)
