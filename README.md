@@ -65,15 +65,15 @@ Two lines containing one integer each (X and Y, respectively).<br />
 - X is greater than Y 
 - X is equal to Y
 
-**22-** Read in one character from STDIN.
-If the character is **'Y'** or **'y'** display **"YES"**.
-If the character is **'N'** or **'n'** display **"NO"**.
-No other character will be provided as input.
-**Input Format**
-One character
+**22-** Read in one character from STDIN.<br />
+If the character is **'Y'** or **'y'** display **"YES"**.<br />
+If the character is **'N'** or **'n'** display **"NO"**.<br />
+No other character will be provided as input.<br />
+**Input Format**<br />
 
-**Constraints**
+One character<br />
+**Constraints**<br />
 The character will be from the set **{yYnN}**.
 
-**Output Format**
+**Output Format**<br />
 echo **YES** or **NO** to STDOUT.
