@@ -54,13 +54,13 @@ Output Format <br />
 Four lines containing the sum (X+Y), difference (X−Y), product (X×Y), and quotient (X∖Y), respectively.<br />
 (While computing the quotient, print only the integer part.)
 
-**21-**Given two integers, X and Y, identify whether X<Y or X>Y or X=Y.
+**21-** Given two integers, X and Y, identify whether X<Y or X>Y or X=Y.
 Comparisons in a shell script may either be accomplished using regular operators (such as <or >) or using (-lt, -gt, -eq, i.e. less than, greater than, equal to) for POSIX shells. 
 This discussion on stack overflow contains useful information on this topic.<br />
 **Input Format**<br /> 
-Two lines containing one integer each (X and Y, respectively).
+Two lines containing one integer each (X and Y, respectively).<br />
 **Output Format**<br /> 
-Exactly one of the following lines: 
+**Exactly one of the following lines:** 
 - X is less than Y 
 - X is greater than Y 
 - X is equal to Y
