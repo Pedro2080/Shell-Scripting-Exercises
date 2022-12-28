@@ -86,3 +86,10 @@ Three integers, each on a new line.
 Sum of any two sides will be greater than the third.<br />
 **Output Format**<br />
 One word: either "SCALENE" or "EQUILATERAL" or "ISOSCELES" (quotation marks excluded).
+
+**24-** A mathematical expression containing +,-,*,^, / and parenthesis will be provided. Read in the expression, then evaluate it.
+Display the result rounded to 3 decimal places.<br />
+
+**Constraints**<br />
+
+All numeric values are <= 999.
