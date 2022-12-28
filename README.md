@@ -77,3 +77,12 @@ The character will be from the set **{yYnN}**.
 
 **Output Format**<br />
 echo **YES** or **NO** to STDOUT.
+
+**23-** Given three integers (X, Y, and Z) representing the three sides of a triangle, identify whether the triangle is Scalene, Isosceles, or Equilateral.<br />
+**Input Format**<br /> 
+Three integers, each on a new line.
+**Input Constraints**<br /> 
+**1≤X,Y,Z≤1000**<br /> 
+Sum of any two sides will be greater than the third.<br />
+**Output Format**<br />
+One word: either "SCALENE" or "EQUILATERAL" or "ISOSCELES" (quotation marks excluded).
